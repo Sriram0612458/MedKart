@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+.main-container, .sub-main {
+    display: block;
+}
 .main-container{
     height: 85px;
     left: -28px;
